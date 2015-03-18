@@ -1,8 +1,4 @@
-# Captious_Caps
-
-*****************
-* Captious Caps *
-*****************
+# Captious Caps
 
 Introduction
 
