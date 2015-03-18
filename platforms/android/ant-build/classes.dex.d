@@ -1,0 +1,21 @@
+D:\uudetprojektit\CaptiousCaps-finalbeta-150121\platforms\android\ant-build\classes.dex : \
+D:\uudetprojektit\CaptiousCaps-finalbeta-150121\platforms\android\ant-build\classes\com\plugin\phonegap\OrientationLock.class \
+D:\uudetprojektit\CaptiousCaps-finalbeta-150121\platforms\android\ant-build\classes\com\rjfun\cordova\plugin\LowLatencyAudio$1.class \
+D:\uudetprojektit\CaptiousCaps-finalbeta-150121\platforms\android\ant-build\classes\com\rjfun\cordova\plugin\LowLatencyAudio$2.class \
+D:\uudetprojektit\CaptiousCaps-finalbeta-150121\platforms\android\ant-build\classes\com\rjfun\cordova\plugin\LowLatencyAudio$3.class \
+D:\uudetprojektit\CaptiousCaps-finalbeta-150121\platforms\android\ant-build\classes\com\rjfun\cordova\plugin\LowLatencyAudio$4.class \
+D:\uudetprojektit\CaptiousCaps-finalbeta-150121\platforms\android\ant-build\classes\com\rjfun\cordova\plugin\LowLatencyAudio$5.class \
+D:\uudetprojektit\CaptiousCaps-finalbeta-150121\platforms\android\ant-build\classes\com\rjfun\cordova\plugin\LowLatencyAudio.class \
+D:\uudetprojektit\CaptiousCaps-finalbeta-150121\platforms\android\ant-build\classes\com\rjfun\cordova\plugin\LowLatencyAudioAsset.class \
+D:\uudetprojektit\CaptiousCaps-finalbeta-150121\platforms\android\ant-build\classes\com\rjfun\cordova\plugin\PolyphonicVoice.class \
+D:\uudetprojektit\CaptiousCaps-finalbeta-150121\platforms\android\ant-build\classes\io\cordova\hellocordova\BuildConfig.class \
+D:\uudetprojektit\CaptiousCaps-finalbeta-150121\platforms\android\ant-build\classes\io\cordova\hellocordova\CordovaApp.class \
+D:\uudetprojektit\CaptiousCaps-finalbeta-150121\platforms\android\ant-build\classes\io\cordova\hellocordova\R$attr.class \
+D:\uudetprojektit\CaptiousCaps-finalbeta-150121\platforms\android\ant-build\classes\io\cordova\hellocordova\R$drawable.class \
+D:\uudetprojektit\CaptiousCaps-finalbeta-150121\platforms\android\ant-build\classes\io\cordova\hellocordova\R$string.class \
+D:\uudetprojektit\CaptiousCaps-finalbeta-150121\platforms\android\ant-build\classes\io\cordova\hellocordova\R$xml.class \
+D:\uudetprojektit\CaptiousCaps-finalbeta-150121\platforms\android\ant-build\classes\io\cordova\hellocordova\R.class \
+D:\uudetprojektit\CaptiousCaps-finalbeta-150121\platforms\android\ant-build\classes\org\apache\cordova\devicemotion\AccelListener$1.class \
+D:\uudetprojektit\CaptiousCaps-finalbeta-150121\platforms\android\ant-build\classes\org\apache\cordova\devicemotion\AccelListener.class \
+D:\uudetprojektit\CaptiousCaps-finalbeta-150121\platforms\android\ant-build\classes\org\apache\cordova\vibration\Vibration.class \
+D:\uudetprojektit\CaptiousCaps-finalbeta-150121\platforms\android\ant-build\dexedLibs\classes-9e362552bb0980d6258b0a9edf699d76.jar \

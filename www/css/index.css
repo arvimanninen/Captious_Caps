@@ -1,0 +1,13 @@
+
+body {
+    background: url("../img/bg_front.jpg");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    text-align: center;
+}
+#quit {
+    margin-top: 3.7em;
+}
+#mainMenu {
+    padding-top: 4em;
+}
