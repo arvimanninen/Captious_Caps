@@ -22,5 +22,5 @@ Cordova plugins used
 
 License
 
-    Check LICENSE.md
+    Released under GNU General Public License v3, check LICENSE.md for more information.
     
